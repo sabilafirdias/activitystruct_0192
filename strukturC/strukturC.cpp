@@ -2,7 +2,7 @@
 //
 
 #include <iostream>
-using namespace;
+using namespace std;
 
 struct Mahasiswa {
     string nim;
@@ -13,5 +13,5 @@ struct Mahasiswa {
 
 int main()
 {
-    std::cout << "Hello World!\n";
+   
 }
